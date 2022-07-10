@@ -4,7 +4,7 @@ hvue is a [GopherJS](https://github.com/gopherjs/gopherjs) wrapper for the
 [Vue](https://vuejs.org/) Javascript framework.
 
 
-It is forked from [github.com/lpuigo/hvue](https://github.com/lpuigo/hvue)
+It is forked from [github.com/huckridgesw/hvue](https://github.com/huckridgesw/hvue)
 
 # Install
 
@@ -14,7 +14,7 @@ It is forked from [github.com/lpuigo/hvue](https://github.com/lpuigo/hvue)
 
 ## Overview
 
-Generally speaking, the [examples](https://github.com/lpuigo/hvue/tree/master/examples)
+Generally speaking, the [examples](https://github.com/huckridgesw/hvue/tree/master/examples)
 follow the examples in the Vue [guide](https://vuejs.org/v2/guide/).
 
 [01-introduction](https://github.com/lpuigo/hvue/tree/master/examples/01-introduction)
